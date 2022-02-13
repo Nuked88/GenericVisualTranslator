@@ -69,7 +69,7 @@ Then you can run **GVT** using `run.bat` or with the command `python main.py`.
 
 This is an example based on the LostArk video game
 - Clone this repository on your pc or download the folder and enter in it
-- Launch the video game and reach a dialogue scene
+- Launch LostArk and reach a dialogue scene
 - Run `runCoordHelper.bat` or the command `python GetCoords.py`
 - Press <kbd>Z</kbd> on the upper left point of the text box
 - Press <kbd>Z</kbd> on the lower right point of the text box
