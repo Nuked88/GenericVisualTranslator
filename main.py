@@ -118,9 +118,11 @@ while True:
             continue
         else:
             image_temp = image
-
-            # Detect if activator is in screen
-            res = find_image( image_full, f"{main_path}\\activators\\" + ac['name'])
+            if ac['name'] == 'None':
+                res = [True]
+            else:
+                # Detect if activator is in screen
+                res = find_image( image_full, f"{main_path}\\activators\\" + ac['name'])
 
             if  res[0]:
 
