@@ -1,0 +1,2 @@
+python GetCoords.py
+pause

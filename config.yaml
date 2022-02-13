@@ -1,0 +1,24 @@
+game_name:  Lost_Ark
+source_language: en
+target_language: it
+translation_method: deepl
+translation_internal_method: offline
+gpu_enabled: True
+time_between_captures: 1
+skip_key: "g"
+show_text: False
+time_to_wait_for_word: 0.3
+tts_enabled: True
+tts_voice_number: 0
+
+main_region: 
+  X: 567
+  Y: 1304
+  extensionOfX: 2068
+  extensionOfY: 1439
+activator_region:
+  name: "lost_ark.png"
+  X: 2
+  Y: 1308
+  extensionOfX: 2559
+  extensionOfY: 1439

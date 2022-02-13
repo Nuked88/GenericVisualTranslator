@@ -1,0 +1,11 @@
+opencv-contrib-python == 4.5.4.58
+opencv-python == 4.5.4.58
+easyocr==1.4.1
+EasyNMT==2.0.1
+numpy==1.19.3
+deepl-translate==1.2.0
+pyttsx3==2.90
+pywin32==301
+wxwidgets==1.0.5
+pygame==2.1.2
+keyboard==0.13.5
