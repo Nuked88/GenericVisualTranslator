@@ -25,7 +25,7 @@ The requirements.txt file has been created with the versions currently installed
 **Requirements installation command**
 `pip install -r requirements.txt`
 
-##:muscle:How it works
+## :muscle:How it works
 
 GVT simply translates a user-defined region of the screen and then recites it using Windows 10/11 TTS (Not tested on Windows 7) showing the translated text instead of the one on the screen.
 
