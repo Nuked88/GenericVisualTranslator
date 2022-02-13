@@ -65,7 +65,7 @@ Then you can run **GVT** using `run.bat` or with the command `python main.py`.
 
 
 
-##:rocket:Getting started
+## :rocket:Getting started
 
 This is an example based on the LostArk video game
 - Clone this repository on your pc or download the folder and enter in it
@@ -84,7 +84,7 @@ This is an example based on the LostArk video game
 - Set `show_text` and `tts_enabled` according to what you want enabled/disabled
 - If you have set `tts_enabled` to `True`, `run runVoiceList.bat` or  `python voice_list.py` to find out the number matched to the voices installed in your Windows distribution (is the one in the square parentheses) and set the variable `tts_voice_number` to the desired number.
 
-Here is an example of the complete file
+#### Here is an example of the complete file :clipboard:
 ```
 game_name:  Lost_Ark
 source_language: en
@@ -115,6 +115,6 @@ activator_region:
 
 - Execute `run.bat`
 
-##To Do
-- Add the possibility to define more regions and activator at once
-- Add the possibility to support multiple game just peaking it from a menu
+## :thought_balloon:To Do
+- Add the capability to define more regions and activator at once
+- Add the capability to support multiple game just chosing it from a menu
