@@ -118,5 +118,6 @@ activator_region:
 - Execute `run.bat`
 
 ## :thought_balloon:To Do
+- Add the capability to change the font size and style of the subtitle
 - Add the capability to define more regions and activator at once
 - Add the capability to support multiple game just chosing it from a menu
